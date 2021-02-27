@@ -1,1 +1,1 @@
-# Online-Shop-Code-Igniter-
+# Online-Shop-Code-Igniter
